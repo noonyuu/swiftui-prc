@@ -15,6 +15,7 @@
 		7214F67E2C6A7CC800AFD1AB /* swiftui_prcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7214F67D2C6A7CC800AFD1AB /* swiftui_prcTests.swift */; };
 		7214F6882C6A7CC800AFD1AB /* swiftui_prcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7214F6872C6A7CC800AFD1AB /* swiftui_prcUITests.swift */; };
 		7214F68A2C6A7CC800AFD1AB /* swiftui_prcUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7214F6892C6A7CC800AFD1AB /* swiftui_prcUITestsLaunchTests.swift */; };
+		7265A4832C6A7EA60021CCAE /* object.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7265A4822C6A7EA60021CCAE /* object.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		7214F6832C6A7CC800AFD1AB /* swiftui-prcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swiftui-prcUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7214F6872C6A7CC800AFD1AB /* swiftui_prcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_prcUITests.swift; sourceTree = "<group>"; };
 		7214F6892C6A7CC800AFD1AB /* swiftui_prcUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_prcUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7265A4822C6A7EA60021CCAE /* object.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = object.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				7214F66E2C6A7CC600AFD1AB /* Item.swift */,
 				7214F6702C6A7CC800AFD1AB /* Assets.xcassets */,
 				7214F6722C6A7CC800AFD1AB /* Preview Content */,
+				7265A4822C6A7EA60021CCAE /* object.swift */,
 			);
 			path = "swiftui-prc";
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			files = (
 				7214F66D2C6A7CC600AFD1AB /* ContentView.swift in Sources */,
 				7214F66F2C6A7CC600AFD1AB /* Item.swift in Sources */,
+				7265A4832C6A7EA60021CCAE /* object.swift in Sources */,
 				7214F66B2C6A7CC600AFD1AB /* swiftui_prcApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
