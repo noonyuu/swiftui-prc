@@ -18,6 +18,7 @@
 		7265A4832C6A7EA60021CCAE /* object.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7265A4822C6A7EA60021CCAE /* object.swift */; };
 		7265A4852C6A7EF00021CCAE /* minion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7265A4842C6A7EF00021CCAE /* minion.swift */; };
 		7265A4872C6A7F290021CCAE /* calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7265A4862C6A7F290021CCAE /* calculator.swift */; };
+		7265A4892C6A7F4A0021CCAE /* dice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7265A4882C6A7F4A0021CCAE /* dice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		7265A4822C6A7EA60021CCAE /* object.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = object.swift; sourceTree = "<group>"; };
 		7265A4842C6A7EF00021CCAE /* minion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minion.swift; sourceTree = "<group>"; };
 		7265A4862C6A7F290021CCAE /* calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculator.swift; sourceTree = "<group>"; };
+		7265A4882C6A7F4A0021CCAE /* dice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				7265A4822C6A7EA60021CCAE /* object.swift */,
 				7265A4842C6A7EF00021CCAE /* minion.swift */,
 				7265A4862C6A7F290021CCAE /* calculator.swift */,
+				7265A4882C6A7F4A0021CCAE /* dice.swift */,
 			);
 			path = "swiftui-prc";
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				7265A4852C6A7EF00021CCAE /* minion.swift in Sources */,
 				7214F66F2C6A7CC600AFD1AB /* Item.swift in Sources */,
 				7265A4872C6A7F290021CCAE /* calculator.swift in Sources */,
+				7265A4892C6A7F4A0021CCAE /* dice.swift in Sources */,
 				7265A4832C6A7EA60021CCAE /* object.swift in Sources */,
 				7214F66B2C6A7CC600AFD1AB /* swiftui_prcApp.swift in Sources */,
 			);
